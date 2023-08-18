@@ -1,3 +1,4 @@
+import pickle
 import numpy as np
 
 class_brand = {0:'Audi', 1:'Hyundai Creta', 2:'Mahindra Scorpio', 3:'Rolls Royce',
